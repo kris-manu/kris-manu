@@ -1,7 +1,5 @@
-## Hi there 👋
 
-<!--
-**kris-manu/kris-manu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 Hi, I'm Manu 👋
 
 Senior Full Stack Developer | Technical Trainer
@@ -56,4 +54,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
