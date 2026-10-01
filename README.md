@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Manu K M
+# 👋 Hi, I'm Manu
 
 ### Senior Full Stack Developer • Technical Trainer • AI Enthusiast
 
